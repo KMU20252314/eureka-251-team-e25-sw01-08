@@ -47,7 +47,9 @@ The Future Isn't Found, It's Forged.
 
 
 <!-- 활동 사진 추가 예시 -->
-<img src="[https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1](https://cdn.discordapp.com/attachments/1418427877611012176/1433494387136004176/EP_team_8_presentation_image.png?ex=6904e52e&is=690393ae&hm=7860c68eaba92cc990e7962089c8d69bb8774b3e99733578bd6392c863e630a9)" width="594" height="841"/>
+<img src="https://cdn.discordapp.com/attachments/1418427877611012176/1433494387136004176/EP_team_8_presentation_image.png?ex=6904e52e&is=690393ae&hm=7860c68eaba92cc990e7962089c8d69bb8774b3e99733578bd6392c863e630a9" width="594" height="841"/>
+- 발표 자료 다운로드
+  - https://drive.google.com/drive/folders/1RXvWVZkNtnqLtkwDYFGasW3fUqZIm73I?usp=drive_link
 
 
 ***
