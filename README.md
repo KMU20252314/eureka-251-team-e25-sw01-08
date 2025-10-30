@@ -5,9 +5,9 @@
 
 | **이름** | **전공** | **관심사** |
 | --- | --- | --- |
+| **가리드** | 소프트웨어전공 | 데이터 사이언스|
 | **김태경** | 소프트웨어전공 | 알고리즘, 게임개발 |
 | **남성혁** | 소프트웨어전공 | 정보보안, 알고리즘 |
-| **가리드** | 소프트웨어전공 | 데이터 사이언스|
 | **백채린** | 소프트웨어전공 | 프론트엔드, UX/UI |
 
 ### 팀 슬로건
@@ -47,7 +47,7 @@ The Future Isn't Found, It's Forged.
 
 
 <!-- 활동 사진 추가 예시 -->
-<img src="https://drive.google.com/file/d/12MLO3KHA_JUbwkYIIXfYiAaxW2GZyRuD/view" width="594" height="841"/>
+<img src="https://cdn.discordapp.com/attachments/1418427877611012176/1433494387136004176/EP_team_8_presentation_image.png?ex=6904e52e&is=690393ae&hm=7860c68eaba92cc990e7962089c8d69bb8774b3e99733578bd6392c863e630a9" width="594" height="841"/>
 - 발표 자료 다운로드
   - https://drive.google.com/drive/folders/1RXvWVZkNtnqLtkwDYFGasW3fUqZIm73I?usp=drive_link
 
