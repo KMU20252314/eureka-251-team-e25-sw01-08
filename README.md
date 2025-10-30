@@ -9,7 +9,6 @@
 | **남성혁** | 소프트웨어전공 | 정보보안, 알고리즘 |
 | **가리드** | 소프트웨어전공 | 데이터 사이언스|
 | **백채린** | 소프트웨어전공 | 프론트엔드, UX/UI |
-| **undefined** | null | null |
 
 ### 팀 슬로건
 
@@ -48,9 +47,8 @@ The Future Isn't Found, It's Forged.
 
 
 <!-- 활동 사진 추가 예시 -->
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
+<img src="[https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1](https://cdn.discordapp.com/attachments/1418427877611012176/1433494387136004176/EP_team_8_presentation_image.png?ex=6904e52e&is=690393ae&hm=7860c68eaba92cc990e7962089c8d69bb8774b3e99733578bd6392c863e630a9)" width="594" height="841"/>
+
 
 ***
 [ Mission 1 ]
